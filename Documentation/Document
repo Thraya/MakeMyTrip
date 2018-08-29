@@ -1,0 +1,21 @@
+Make My Trip
+An application to book flights and hotels when on a trip.
+Milestone 1 Homepage:
+Homepage has the following components,
+Header components: It contains company logo, flights (directed to flight details and booking page), hotels (directed to hotel details and booking page), login and signup.
+Footer components: It contains social media and feedback links.
+Body: About the services provided by MMT.
+Stories are as follows:
+•	Designing the frontend of homepage using HTML5 and CSS3.
+Providing the company logo, reference to flights and hotels, login and signup components in the header part. Providing the social media links, suggestion page reference in the footer part. (6 hours).
+
+•	Designing of frontend of signup page using JSP, HTML5, and CSS3.
+The signup page is provided with Email ID, Mobile Number and Password fields, where the data is collected from the user. (2 hours).
+
+•	Database creation using MySQL
+Creating the table with fields: Email ID as a primary key, Mobile number and password. (3 hours).
+
+•	Designing the frontend page of login using JSP, HTML5, and CSS3.
+The successfully registered users can login using Email ID and Password. This is collected and validated in Spring MVC by retrieving the data from the database. (7 hours).
+
+
